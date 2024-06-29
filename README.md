@@ -9,7 +9,7 @@ Embarking on my coding journey five years ago with C/C++, I navigated through th
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [My Portfolio](https://ambesh-gaunker.vercel.app/)
 * ✉️  You can contact me at [ambeshgaunker@gmail.com](mailto:ambeshgaunker@gmail.com)
-* 🧠  I'm learning React Native , Nextjs , C#
+* 🧠  I'm learning React Native , Nextjs 
 * 🤝  I'm open to collaborating on Projects
 
 ### Skills
