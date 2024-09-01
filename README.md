@@ -1,5 +1,5 @@
 # 💫 About Me:
-About Me<br><br>- 👨‍💻 Started with C/C++ and explored it deeply for 2 years.<br>- 🌐 Transitioned to web development with the MERN stack for 4 years.<br>- 🚀 Upgraded my skills to Next.js for building modern web apps.<br>- 🔗 Currently learning blockchain and smart contracts.
+- 👨‍💻 Started with C/C++ and explored it deeply for 2 years.<br>- 🌐 Transitioned to web development with the MERN stack for 4 years.<br>- 🚀 Upgraded my skills to Next.js for building modern web apps.<br>- 🔗 Currently learning blockchain and smart contracts.
 
 
 ## 🌐 Socials:
